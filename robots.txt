@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dial4-u-flights-1-xnfm.vercel.app/sitemap.xml
